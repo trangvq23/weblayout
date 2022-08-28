@@ -168,10 +168,13 @@ textarea {
     background-color: #FFF7E6;
 }
 
-.list-header {
+.header-blog {
     width: 100%;
     text-align: center;
-    padding: 20px;
+    padding: 1.5em;
+}
+.header-blog > img, b {
+    padding: 0.5rem;
 }
 
 .list-paragraph {
