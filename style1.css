@@ -255,3 +255,13 @@ textarea {
 .footer-item>i {
     padding: 5px;
 }
+.center-j {
+    display: flex;
+}
+.center-left {
+
+    width: 30%;
+}
+.center-right {
+    width: 70%;
+}
